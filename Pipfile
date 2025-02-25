@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+<<<<<<< HEAD
+flask = "*"
+tweepy = "*"
+pylint = "*"
+black = "*"
+isort = "*"
+langchain-openai = "*"
+langchain-community = "*"
+langchain = "*"
+langchain-ollama = "*"
+=======
+>>>>>>> 3e8dd5f (initial commit)
+
+[dev-packages]
+
+[requires]
+<<<<<<< HEAD
+python_version = "3.10"
+
+[pipenv]
+allow_prereleases = true
+=======
+python_version = "3.13"
+>>>>>>> 3e8dd5f (initial commit)
